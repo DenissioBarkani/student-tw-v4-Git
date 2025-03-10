@@ -3,7 +3,7 @@ import { Categories, CompanyList, Container, Filters, Title } from "@/components
 export default function Home() {
   return (
     <>
-    <div>1</div>
+    <div>ветка</div>
       <Container className="mt-10">
         <div className="flex gap-[60px]">
           {/* Фильтрация */}
